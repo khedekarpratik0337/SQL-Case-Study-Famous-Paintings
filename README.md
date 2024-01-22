@@ -1,7 +1,3 @@
 # SQL-Case-Study-Famous-Paintings
-<img width="468" alt="image" src="https://github.com/khedekarpratik0337/SQL-Case-Study-Famous-Paintings/assets/105503399/cf36c61d-5008-45a6-9124-c801b33f63bc">
+<img width="700" alt="image" src="https://github.com/khedekarpratik0337/SQL-Case-Study-Famous-Paintings/assets/105503399/cc1a6098-cc35-4ea5-bffb-72bb27850ecb">
 
-
-This Article highlights on various aspects of data engineering, where Docker orchestrates infrastructure, SQL queries unveil insights, and Azure Data Studio becomes the canvas. Beyond a typical SQL case study, this exploration delves into database design, Python scripting for data connection, and the seamless fusion of diverse tools. Join me in unraveling the multifaceted layers that contribute to the symphony of data engineering, as we navigate the complexities and celebrate the artistry inherent in each component. This article transcends the ordinary, offering a holistic view of the diverse aspects that shape the landscape of modern data engineering.![image](https://github.com/khedekarpratik0337/SQL-Case-Study-Famous-Paintings/assets/105503399/c82df5c4-35a3-4f32-9d79-3cfa5cf4cb25)
-Based on the structure, I created this visual representation encapsulated the relationships between entities, providing a structured framework for storing and retrieving data using dbdraw.io ![image](https://github.com/khedekarpratik0337/SQL-Case-Study-Famous-Paintings/assets/105503399/17057da7-72fc-49c5-8f99-b34be7b4e5bc)
-<img width="468" alt="image" src="https://github.com/khedekarpratik0337/SQL-Case-Study-Famous-Paintings/assets/105503399/03864f17-1519-4878-a2a3-8a7a5e25887a">
